@@ -7,7 +7,8 @@ float: left;
 border-right: solid 2px grey;
 height: 100vh;
 min-width: 50px;
-
+background: lightblue;
+margin-right: 15px;
 }
 
 .sidebar-text{
